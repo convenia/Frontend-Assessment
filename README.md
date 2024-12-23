@@ -26,7 +26,7 @@ Gostaria de Visualizar
 De maneira que estas informações alimentem meu sistema pessoal
 
     Regra: Valores padrão
-        Dado que não queremos exibição de erros
+        Dado que não queremos exibição de valores inválidos nos campos do formulário
         Então o valor padrão para o campo "Valor" é "0"
         E o valor padrão para o campo "Gorjeta" é "10"
         E o campo "Gorjeta" pode variar de "10" a "20" %
