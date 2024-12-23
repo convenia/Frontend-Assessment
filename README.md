@@ -14,7 +14,7 @@ Que tenha um excelente desenvolvimento :wink:
 > O total da conta pode ser em USD(Dólar) ou EUR(Euro).
 > Deve ser exibido a conversão para BRL(R$), obtida via chamada (REST)
 
-Dica: você pode usar qualquer API gratuita para obter a conversão de moedas, como o [SWOP](https://swop.cx/).
+Dica: você pode usar qualquer API gratuita para obter a conversão de moedas, como o [AWESOME](https://docs.awesomeapi.com.br/api-de-moedas) e o [SWOP](https://swop.cx/).
 
 ### User Story
 
@@ -107,8 +107,8 @@ De maneira que estas informações alimentem meu sistema pessoal
 
 * Como pode perceber, não há um botão "calcular", todos cálculos devem ser reativos
 * Apreciamos o uso de alguma metodológia CSS (BEM, RSCSS, ou qualquer outra) 
-* Avaliaremos como organizará a requisição para conversão de moeda
-* A partir do apresentado, você pode incrementar a aplicação como quiser
+* Avaliaremos como se dá a organização da requisição para conversão de moeda
+* A partir da implementação das regras iniciais, você pode incrementar a aplicação como quiser
 * Você tem 1(uma) semana para realizar a avaliação
 
 ### Aguardamos seu Merge Request
